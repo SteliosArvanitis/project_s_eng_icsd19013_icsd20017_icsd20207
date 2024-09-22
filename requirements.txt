@@ -1,0 +1,16 @@
+fastapi
+sqlalchemy
+mysqlclient
+passlib
+python-jose
+pydantic
+python-dotenv
+alembic
+uvicorn
+pydantic-settings
+bcrypt
+passlib
+mysql-connector-python
+pydantic[email]
+pymysql
+python-multipart
