@@ -31,4 +31,9 @@
 ### Documentation εφαρμογής<br />
 Μετά την εκκίνηση του Server σε κάποιον browser πληκτρολογούμε `127.0.0.1:9000/docs` για να εμφανιστεί το documentation του api μας.
 
+---
+
+### Αποτελέσματα Testing <br />
+Για τη φάση του testing χρησιμοποιήσαμε το **Insomnia Client**.<br />
+Τα requests που κάναμε βρίσκονται στο αρχείο `icsd19013_icsd20017_icsd20207_testing_results_for_insomnia.json` το οποίο μπορεί να γίνει απευθείας import στο Insomnia για να εμφανιστούν τα requests που χρησιμοποιήσαμε.
 
